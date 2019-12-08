@@ -1,0 +1,48 @@
+
+
+
+.cards{
+    
+    
+    display: flex;
+    align-content: center;
+    justify-content: space-around;
+    
+   
+    
+    
+}
+.cards .oyt{
+    color: #03974D;
+    
+
+}
+
+.cards .fc{
+    color: #104ba3;
+}
+.cards a{
+    color: rgb(0,0,0);
+}
+.OYT{
+    min-height: 30%;
+    min-width: 100%;
+}    
+.FC{
+    height: 30%;
+    min-width: 100%;
+}    
+.project-description img{ 
+    max-width: 300px;
+    
+}
+.project-description p{
+    max-width: 100%;
+}
+
+#fc{
+    border:2px solid black;
+}
+#oyt{
+    border:2px solid black;
+}
