@@ -67,10 +67,12 @@ body {
     align-content: center;
     justify-content: space-around;
     background-color: #fff;
-    
-   
-    
-    
+            }
+.cards2{
+  display: flex;
+  align-content: center;
+  justify-content: space-around;
+  background-color: #fff;
 }
 .cards .oyt{
     color: #03974D;
@@ -92,6 +94,10 @@ body {
     height: 30%;
     min-width: 100%;
 }    
+.YP{
+  height: 30%;
+  min-width: 100%;
+}
 .project-description img{ 
     max-width: 300px;
     
